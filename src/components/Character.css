@@ -1,0 +1,25 @@
+.container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 8px 0;
+}
+
+.character {
+  cursor: pointer;
+  color: blue;
+}
+
+.character:hover {
+  text-decoration: underline;
+}
